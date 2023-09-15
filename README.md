@@ -241,10 +241,10 @@ This repo contains files related to project 1 of software engineering course for
 |Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)	|3||
 |Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)	|3||
 |Evidence that the members of the team are working across multiple places in the code base	|3||
-|Short release cycles	|2||
+|Short release cycles	|3||
 |Does your website and documentation provide a clear, high-level overview of your software?|Y||
 |Does your website and documentation clearly describe the type of user who should use your software?|Y||
-|Do you publish case studies to show how your software has been used by yourself and others?|N||
+|Do you publish case studies to show how your software has been used by yourself and others?|Y||
 |Is the name of your project/software unique?|Y||
 |Is your project/software name free from trademark violations?|Y||
 |Is your software available as a package that can be deployed without building it?|Y||
@@ -255,7 +255,7 @@ This repo contains files related to project 1 of software engineering course for
 |Does your documentation include a "quick start" guide, that provides a short overview of how to use your software with some basic examples of use?|Y||
 |If you provide more extensive documentation, does this provide clear, step-by-step instructions on how to deploy and use your software?|Y||
 |Do you provide a comprehensive guide to all your software’s commands, functions and options?|Y||
-|Do you provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages?|N||
+|Do you provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages?|Y||
 |If your software can be used as a library, package or service by other software, do you provide comprehensive API documentation?|Y||
 |Do you store your documentation under revision control with your source code?|Y||
 |Do you publish your release history e.g. release data, version numbers, key features of each release etc. on your web site or in your documentation?|Y||
