@@ -1,7 +1,7 @@
-# Grading for project proj1: GITS2.1-I.R.I.S
+# Grading for project proj1: **[GITS2.1-I.R.I.S](https://github.com/jayrshah98/GITS2.1-I.R.I.S)**
 This repo contains files related to project 1 of software engineering course for Fall23
 
-|Notes|grading|evidence|
+|**Notes**|**Grading**|**Evidence**|
 |-----|---------|------|
 |Video|3||
 |Workload is spread over the whole team (one team member is often Xtimes more productive than the others but nevertheless, here is a track record that everyone is contributing a lot)|3||
@@ -40,7 +40,7 @@ This repo contains files related to project 1 of software engineering course for
 |Is your software available as a package that can be deployed without building it?|Yes||
 |Is your software available for free?|Yes||
 |Is your source code publicly available to download, either as a downloadable bundle or via access to a source code repository?|Yes||
-|Is your software hosted in an established, third-party repository likeGitHub (https://github.com), BitBucket (https://bitbucket.org),LaunchPad (https://launchpad.net) orSourceForge (https://sourceforge.net)?|Yes||
+|Is your software hosted in an established, third-party repository like [GitHub](https://github.com), [BitBucket](https://bitbucket.org), [LaunchPad](https://launchpad.net) or [SourceForge](https://sourceforge.net)?|Yes||
 |Is your documentation clearly available on your website or within your software?|Yes||
 |Does your documentation include a "quick start" guide, that provides a short overview of how to use your software with some basic examples of use?|No||
 |If you provide more extensive documentation, does this provide clear, step-by-step instructions on how to deploy and use your software?|Yes||
@@ -68,12 +68,12 @@ This repo contains files related to project 1 of software engineering course for
 |Is there a branch of the repository that is always stable? (i.e. tests always pass, code always builds successfully)|Yes||
 |Do you back-up your repository?|Yes||
 |Do you provide publicly-available instructions for building your software from the source code?|Yes||
-|Can you build, or package, your software using an automated tool? e.g. Make (https://www.gnu.org/software/make/), ANT (http://ant.apache.org/), Maven (https://maven.apache.org/), CMake (https://cmake.org/), Python setuptools (https://pypi.python.org/pypi/setuptools), or R package tools (https://cran.r-project.org/doc/manuals/r-devel/R-exts.html)|Yes||
+|Can you build, or package, your software using an automated tool? e.g. [Make](https://www.gnu.org/software/make/), [ANT](http://ant.apache.org/), [Maven](https://maven.apache.org/), [CMake](https://cmake.org/), [Python setuptools](https://pypi.python.org/pypi/setuptools), or [R package tools](https://cran.r-project.org/doc/manuals/r-devel/R-exts.html)|Yes||
 |Do you provide publicly-available instructions for deploying your software?|Yes||
 |Does your documentation list all third-party dependencies?|Yes||
 |Does your documentation list the version number for all third-party dependencies?|No||
 |Does your software list the web address, and licences for all third-party dependencies and say whether the dependencies are mandatory or optional?|No||
-|Can you download dependencies using a dependency management tool or package manager? e.g. Ivy (http://ant.apache.org/ivy/), Maven (https://maven.apache.org/), Python pip (https://pypi.python.org/pypi/pip) or setuptools (https://pypi.python.org/pypi/setuptools), PHP Composer (https://getcomposer.org/), Ruby gems (https://rubygems.org), or R PackRat (https://rstudio.github.io/packrat/)|Yes||
+|Can you download dependencies using a dependency management tool or package manager? e.g. [Ivy](http://ant.apache.org/ivy/), [Maven](https://maven.apache.org/), [Python pip](https://pypi.python.org/pypi/pip) or [setuptools](https://pypi.python.org/pypi/setuptools), [PHP Composer](https://getcomposer.org/), [Ruby gems](https://rubygems.org), or [R PackRat](https://rstudio.github.io/packrat/)|Yes||
 |Do you have tests that can be run after your software has been built or deployed to show whether the build or deployment has been successful?|Yes||
 |Do you have an automated test suite for your software?|Yes||
 |Do you have a framework to periodically (e.g. nightly) run your tests on the latest version of the source code?|No||
@@ -105,8 +105,8 @@ This repo contains files related to project 1 of software engineering course for
 
 
 
-# Grading for project proj2: StockPrediction
-|Notes|grading|evidence|
+# Grading for project proj2: **[Stock Guide and Analyst](https://github.com/lokesh45/StockPrediction)**
+|**Notes**|**Grading**|**Evidence**|
 |-----|---------|------|
 |Video|3||
 |Workload is spread over the whole team (one team member is often Xtimes more productive than the others but nevertheless, here is a track record that everyone is contributing a lot)|3||
@@ -145,7 +145,7 @@ This repo contains files related to project 1 of software engineering course for
 |Is your software available as a package that can be deployed without building it?|Yes||
 |Is your software available for free?|Yes||
 |Is your source code publicly available to download, either as a downloadable bundle or via access to a source code repository?|Yes||
-|Is your software hosted in an established, third-party repository likeGitHub (https://github.com), BitBucket (https://bitbucket.org),LaunchPad (https://launchpad.net) orSourceForge (https://sourceforge.net)?|Yes||
+|Is your software hosted in an established, third-party repository like [GitHub](https://github.com), [BitBucket](https://bitbucket.org), [LaunchPad](https://launchpad.net) or [SourceForge](https://sourceforge.net)?|Yes||
 |Is your documentation clearly available on your website or within your software?|Yes||
 |Does your documentation include a "quick start" guide, that provides a short overview of how to use your software with some basic examples of use?|Yes||
 |If you provide more extensive documentation, does this provide clear, step-by-step instructions on how to deploy and use your software?|Yes||
@@ -173,12 +173,12 @@ This repo contains files related to project 1 of software engineering course for
 |Is there a branch of the repository that is always stable? (i.e. tests always pass, code always builds successfully)|Yes||
 |Do you back-up your repository?|Yes||
 |Do you provide publicly-available instructions for building your software from the source code?|Yes||
-|Can you build, or package, your software using an automated tool? e.g. Make (https://www.gnu.org/software/make/), ANT (http://ant.apache.org/), Maven (https://maven.apache.org/), CMake (https://cmake.org/), Python setuptools (https://pypi.python.org/pypi/setuptools), or R package tools (https://cran.r-project.org/doc/manuals/r-devel/R-exts.html)|Yes||
+|Can you build, or package, your software using an automated tool? e.g. [Make](https://www.gnu.org/software/make/), [ANT](http://ant.apache.org/), [Maven](https://maven.apache.org/), [CMake](https://cmake.org/), [Python setuptools](https://pypi.python.org/pypi/setuptools), or [R package tools](https://cran.r-project.org/doc/manuals/r-devel/R-exts.html)|Yes||
 |Do you provide publicly-available instructions for deploying your software?|Yes||
 |Does your documentation list all third-party dependencies?|Yes||
 |Does your documentation list the version number for all third-party dependencies?|Yes||
 |Does your software list the web address, and licences for all third-party dependencies and say whether the dependencies are mandatory or optional?|No||
-|Can you download dependencies using a dependency management tool or package manager? e.g. Ivy (http://ant.apache.org/ivy/), Maven (https://maven.apache.org/), Python pip (https://pypi.python.org/pypi/pip) or setuptools (https://pypi.python.org/pypi/setuptools), PHP Composer (https://getcomposer.org/), Ruby gems (https://rubygems.org), or R PackRat (https://rstudio.github.io/packrat/)|Yes||
+|Can you download dependencies using a dependency management tool or package manager? e.g. [Ivy](http://ant.apache.org/ivy/), [Maven](https://maven.apache.org/), [Python pip](https://pypi.python.org/pypi/pip) or [setuptools](https://pypi.python.org/pypi/setuptools), [PHP Composer](https://getcomposer.org/), [Ruby gems](https://rubygems.org), or [R PackRat](https://rstudio.github.io/packrat/)|Yes||
 |Do you have tests that can be run after your software has been built or deployed to show whether the build or deployment has been successful?|Yes||
 |Do you have an automated test suite for your software?|Yes||
 |Do you have a framework to periodically (e.g. nightly) run your tests on the latest version of the source code?|Yes||
@@ -210,8 +210,8 @@ This repo contains files related to project 1 of software engineering course for
 
 
 
-# Grading for project proj3: application-tracking-system
-|Notes|grading|evidence|
+# Grading for project proj3: **[Application Tracking System](https://github.com/Pratyush1184/application-tracking-system)**
+|**Notes**|**Grading**|**Evidence**|
 |-----|---------|------|
 |Video|3||
 |Workload is spread over the whole team (one team member is often Xtimes more productive than the others but nevertheless, here is a track record that everyone is contributing a lot)|3||
@@ -250,7 +250,7 @@ This repo contains files related to project 1 of software engineering course for
 |Is your software available as a package that can be deployed without building it?|Yes||
 |Is your software available for free?|Yes||
 |Is your source code publicly available to download, either as a downloadable bundle or via access to a source code repository?|Yes||
-|Is your software hosted in an established, third-party repository likeGitHub (https://github.com), BitBucket (https://bitbucket.org),LaunchPad (https://launchpad.net) orSourceForge (https://sourceforge.net)?|Yes||
+|Is your software hosted in an established, third-party repository like [GitHub](https://github.com), [BitBucket](https://bitbucket.org), [LaunchPad](https://launchpad.net) or [SourceForge](https://sourceforge.net)?|Yes||
 |Is your documentation clearly available on your website or within your software?|Yes||
 |Does your documentation include a "quick start" guide, that provides a short overview of how to use your software with some basic examples of use?|Yes||
 |If you provide more extensive documentation, does this provide clear, step-by-step instructions on how to deploy and use your software?|Yes||
@@ -278,12 +278,12 @@ This repo contains files related to project 1 of software engineering course for
 |Is there a branch of the repository that is always stable? (i.e. tests always pass, code always builds successfully)|Yes||
 |Do you back-up your repository?|Yes||
 |Do you provide publicly-available instructions for building your software from the source code?|Yes||
-|Can you build, or package, your software using an automated tool? e.g. Make (https://www.gnu.org/software/make/), ANT (http://ant.apache.org/), Maven (https://maven.apache.org/), CMake (https://cmake.org/), Python setuptools (https://pypi.python.org/pypi/setuptools), or R package tools (https://cran.r-project.org/doc/manuals/r-devel/R-exts.html)|Yes||
+|Can you build, or package, your software using an automated tool? e.g. [Make](https://www.gnu.org/software/make/), [ANT](http://ant.apache.org/), [Maven](https://maven.apache.org/), [CMake](https://cmake.org/), [Python setuptools](https://pypi.python.org/pypi/setuptools), or [R package tools](https://cran.r-project.org/doc/manuals/r-devel/R-exts.html)|Yes||
 |Do you provide publicly-available instructions for deploying your software?|Yes||
 |Does your documentation list all third-party dependencies?|Yes||
 |Does your documentation list the version number for all third-party dependencies?|Yes||
 |Does your software list the web address, and licences for all third-party dependencies and say whether the dependencies are mandatory or optional?|No||
-|Can you download dependencies using a dependency management tool or package manager? e.g. Ivy (http://ant.apache.org/ivy/), Maven (https://maven.apache.org/), Python pip (https://pypi.python.org/pypi/pip) or setuptools (https://pypi.python.org/pypi/setuptools), PHP Composer (https://getcomposer.org/), Ruby gems (https://rubygems.org), or R PackRat (https://rstudio.github.io/packrat/)|Yes||
+|Can you download dependencies using a dependency management tool or package manager? e.g. [Ivy](http://ant.apache.org/ivy/), [Maven](https://maven.apache.org/), [Python pip](https://pypi.python.org/pypi/pip) or [setuptools](https://pypi.python.org/pypi/setuptools), [PHP Composer](https://getcomposer.org/), [Ruby gems](https://rubygems.org), or [R PackRat](https://rstudio.github.io/packrat/)|Yes||
 |Do you have tests that can be run after your software has been built or deployed to show whether the build or deployment has been successful?|Yes||
 |Do you have an automated test suite for your software?|Yes||
 |Do you have a framework to periodically (e.g. nightly) run your tests on the latest version of the source code?|Yes||
@@ -314,8 +314,8 @@ This repo contains files related to project 1 of software engineering course for
 |Do you make timely announcements of the deprecation of components, APIs, etc.?|No||
 
 
-# Grading for project proj4: calorieApp
-|Notes|grading|evidence|
+# Grading for project proj4: **[calorieApp](https://github.com/deekay2310/calorieApp_server)**
+|**Notes**|**Grading**|**Evidence**|
 |-----|---------|------|
 |Video|3||
 |Workload is spread over the whole team (one team member is often Xtimes more productive than the others but nevertheless, here is a track record that everyone is contributing a lot)|||
@@ -354,7 +354,7 @@ This repo contains files related to project 1 of software engineering course for
 |Is your software available as a package that can be deployed without building it?|Yes||
 |Is your software available for free?|Yes||
 |Is your source code publicly available to download, either as a downloadable bundle or via access to a source code repository?Yes|||
-|Is your software hosted in an established, third-party repository likeGitHub (https://github.com), BitBucket (https://bitbucket.org),LaunchPad (https://launchpad.net) orSourceForge (https://sourceforge.net)?|Yes||
+|Is your software hosted in an established, third-party repository like [GitHub](https://github.com), [BitBucket](https://bitbucket.org), [LaunchPad](https://launchpad.net) or [SourceForge](https://sourceforge.net)?|Yes||
 |Is your documentation clearly available on your website or within your software?|Yes||
 |Does your documentation include a "quick start" guide, that provides a short overview of how to use your software with some basic examples of use?|Yes||
 |If you provide more extensive documentation, does this provide clear, step-by-step instructions on how to deploy and use your software?|Yes||
@@ -382,12 +382,12 @@ This repo contains files related to project 1 of software engineering course for
 |Is there a branch of the repository that is always stable? (i.e. tests always pass, code always builds successfully)Yes|||
 |Do you back-up your repository?|Yes||
 |Do you provide publicly-available instructions for building your software from the source code?|Yes||
-|Can you build, or package, your software using an automated tool? e.g. Make (https://www.gnu.org/software/make/), ANT (http://ant.apache.org/), Maven (https://maven.apache.org/), CMake (https://cmake.org/), Python setuptools (https://pypi.python.org/pypi/setuptools), or R package tools (https://cran.r-project.org/doc/manuals/r-devel/R-exts.html)|No||
+|Can you build, or package, your software using an automated tool? e.g. [Make](https://www.gnu.org/software/make/), [ANT](http://ant.apache.org/), [Maven](https://maven.apache.org/), [CMake](https://cmake.org/), [Python setuptools](https://pypi.python.org/pypi/setuptools), or [R package tools](https://cran.r-project.org/doc/manuals/r-devel/R-exts.html)|No||
 |Do you provide publicly-available instructions for deploying your software?|Yes||
 |Does your documentation list all third-party dependencies?|No||
 |Does your documentation list the version number for all third-party dependencies?|No||
 |Does your software list the web address, and licences for all third-party dependencies and say whether the dependencies are mandatory or optional?|No||
-|Can you download dependencies using a dependency management tool or package manager? e.g. Ivy (http://ant.apache.org/ivy/), Maven (https://maven.apache.org/), Python pip (https://pypi.python.org/pypi/pip) or setuptools (https://pypi.python.org/pypi/setuptools), PHP Composer (https://getcomposer.org/), Ruby gems (https://rubygems.org), or R PackRat (https://rstudio.github.io/packrat/)|Yes||
+|Can you download dependencies using a dependency management tool or package manager? e.g. [Ivy](http://ant.apache.org/ivy/), [Maven](https://maven.apache.org/), [Python pip](https://pypi.python.org/pypi/pip) or [setuptools](https://pypi.python.org/pypi/setuptools), [PHP Composer](https://getcomposer.org/), [Ruby gems](https://rubygems.org), or [R PackRat](https://rstudio.github.io/packrat/)|Yes||
 |Do you have tests that can be run after your software has been built or deployed to show whether the build or deployment has been successful?|Yes||
 |Do you have an automated test suite for your software?|No||
 |Do you have a framework to periodically (e.g. nightly) run your tests on the latest version of the source code?|No||
@@ -417,8 +417,8 @@ This repo contains files related to project 1 of software engineering course for
 |Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed?|No||
 |Do you make timely announcements of the deprecation of components, APIs, etc.?|No||
 
-# Grading for project proj5: auto_anki
-|Notes|grading|evidence|
+# Grading for project proj5: **[auto_anki](https://github.com/SmayanaReddy/auto_anki)**
+|**Notes**|**Grading**|**Evidence**|
 |-----|---------|------|
 |Video|3||
 |Workload is spread over the whole team (one team member is often Xtimes more productive than the others but nevertheless, here is a track record that everyone is contributing a lot)|3||
@@ -457,7 +457,7 @@ This repo contains files related to project 1 of software engineering course for
 |Is your software available as a package that can be deployed without building it?|Yes||
 |Is your software available for free?|Yes||
 |Is your source code publicly available to download, either as a downloadable bundle or via access to a source code repository?|Yes||
-|Is your software hosted in an established, third-party repository likeGitHub (https://github.com), BitBucket (https://bitbucket.org),LaunchPad (https://launchpad.net) orSourceForge (https://sourceforge.net)?|Yes||
+|Is your software hosted in an established, third-party repository like [GitHub](https://github.com), [BitBucket](https://bitbucket.org), [LaunchPad](https://launchpad.net) or [SourceForge](https://sourceforge.net)?|Yes||
 |Is your documentation clearly available on your website or within your software?|Yes||
 |Does your documentation include a "quick start" guide, that provides a short overview of how to use your software with some basic examples of use?|Yes||
 |If you provide more extensive documentation, does this provide clear, step-by-step instructions on how to deploy and use your software?|Yes||
@@ -485,12 +485,12 @@ This repo contains files related to project 1 of software engineering course for
 |Is there a branch of the repository that is always stable? (i.e. tests always pass, code always builds successfully)|Yes||
 |Do you back-up your repository?|Yes||
 |Do you provide publicly-available instructions for building your software from the source code?|Yes||
-|Can you build, or package, your software using an automated tool? e.g. Make (https://www.gnu.org/software/make/), ANT (http://ant.apache.org/), Maven (https://maven.apache.org/), CMake (https://cmake.org/), Python setuptools (https://pypi.python.org/pypi/setuptools), or R package tools (https://cran.r-project.org/doc/manuals/r-devel/R-exts.html)|Yes||
+|Can you build, or package, your software using an automated tool? e.g. [Make](https://www.gnu.org/software/make/), [ANT](http://ant.apache.org/), [Maven](https://maven.apache.org/), [CMake](https://cmake.org/), [Python setuptools](https://pypi.python.org/pypi/setuptools), or [R package tools](https://cran.r-project.org/doc/manuals/r-devel/R-exts.html)|Yes||
 |Do you provide publicly-available instructions for deploying your software?|Yes||
 |Does your documentation list all third-party dependencies?|Yes||
 |Does your documentation list the version number for all third-party dependencies?|Yes||
 |Does your software list the web address, and licences for all third-party dependencies and say whether the dependencies are mandatory or optional?|No||
-|Can you download dependencies using a dependency management tool or package manager? e.g. Ivy (http://ant.apache.org/ivy/), Maven (https://maven.apache.org/), Python pip (https://pypi.python.org/pypi/pip) or setuptools (https://pypi.python.org/pypi/setuptools), PHP Composer (https://getcomposer.org/), Ruby gems (https://rubygems.org), or R PackRat (https://rstudio.github.io/packrat/)|Yes||
+|Can you download dependencies using a dependency management tool or package manager? e.g. [Ivy](http://ant.apache.org/ivy/), [Maven](https://maven.apache.org/), [Python pip](https://pypi.python.org/pypi/pip) or [setuptools](https://pypi.python.org/pypi/setuptools), [PHP Composer](https://getcomposer.org/), [Ruby gems](https://rubygems.org), or [R PackRat](https://rstudio.github.io/packrat/)|Yes||
 |Do you have tests that can be run after your software has been built or deployed to show whether the build or deployment has been successful?|Yes||
 |Do you have an automated test suite for your software?|Yes||
 |Do you have a framework to periodically (e.g. nightly) run your tests on the latest version of the source code?|No||
