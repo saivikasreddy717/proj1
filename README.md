@@ -6,9 +6,8 @@ The grades for our group's projects can be found in the [Project Grades.md](http
 
 ### **Step 2:** Execution Video
 
-
-<img src="https://www.elegantthemes.com/blog/wp-content/uploads/2022/01/lazy-loading.png" width="200" height="150" alt="Loading..."><br>
-Stay tuned for our project execution video, currently in progress.
+#### [The Execution video is here](https://www.youtube.com/watch?v=-I05MAIoI_g)<br>
+The Execution video is out you can view it "N" number of times :-)
 
 ### **Step 3:** Challenging Journey
 
