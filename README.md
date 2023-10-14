@@ -6,7 +6,7 @@ The grades for our group's projects can be found in the [1. Project Grades.md](h
 
 ### **Step 2:** Execution Video
 
-#### [2. The Execution video](https://www.youtube.com/watch?v=-I05MAIoI_g)<br>
+#### [2. The Execution video](https://youtu.be/S7N1thPoozU)<br>
 The Execution video is out you can view it "N" number of times :-)
 
 ### **Step 3:** Challenging Journey
